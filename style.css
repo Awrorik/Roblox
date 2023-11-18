@@ -1,0 +1,89 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+background-color: #8d4dd1;
+padding:10px ;
+  border-radius: 66px;
+  border: 7px solid 
+  #000000;
+  
+}
+ol{
+list-style: none;
+
+
+font-size: 20px;
+font-weight: 640;
+  float: left;
+}
+.nav{ 
+background-color:#7a22d6;
+padding: 10px;
+margin:5px ;
+width: 200px;
+border: 6px solid #0e0d30;
+border-radius: 50px;
+  
+}
+.nav:hover{ 
+cursor: pointer;
+  background-color: #605db3;
+  border: 4px solid black;
+  width: 130px;
+  transition: all 0.4s;
+  
+}
+a{ 
+text-decoration: none;
+color: black;
+}
+a:hover{ 
+color: white ;
+}
+body{
+ background-image:url(https://media.thenerdstash.com/wp-content/uploads/2022/09/roblox-evolution-evade.jpg) ;
+}
+
+/* a{
+background-color:#8661ad;
+border: 3px solid #7c50ab;
+
+} */
+h4{
+background-color: white;
+border-radius:50px 70px 66px ;  
+  border: 6px solid  #7c50ab ;
+  
+}
+.horizontal{
+  display: flex;
+}
+.video{
+  margin-left: 20%;
+  width: 560px;
+}
+.test{
+  border: 5px solid  #7c50ab ;
+  width: 50px;
+}
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
